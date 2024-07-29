@@ -11,7 +11,8 @@ menu:
 
 ## Call For Papers
 ### Important Dates
-TBA
+- **Summer school**: June 9 - 10, 2025
+- **Main conference**: Jun 11- 13, 2025
 
 ### Scope
 The IPCO conference is a forum for researchers and practitioners working on various aspects of integer programming and combinatorial optimization. The aim is to present recent developments in theory, computation, and applications. The scope of IPCO is viewed in a broad sense, to include algorithmic and structural results in integer programming and combinatorial optimization as well as revealing computational studies and novel applications of discrete optimization to practical problems.
