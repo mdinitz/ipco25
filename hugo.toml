@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.cs.jhu.edu/~mdinitz/ipco25'
 languageCode = 'en-us'
 title = 'IPCO 2025'
 theme = 'ananke'
