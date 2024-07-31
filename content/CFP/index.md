@@ -9,7 +9,7 @@ menu:
     weight: 1
     identifier: 'calls'
 ---
-# IPCO 2025: Call for Papers
+# Call for Papers
 
 IPCO 2025 -- The 26th Conference on Integer Programming and Combinatorial Optimization\
 Johns Hopkins University, Baltimore, USA\

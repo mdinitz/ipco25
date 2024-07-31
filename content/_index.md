@@ -19,7 +19,7 @@ The conference and summer school will take place at [Johns Hopkins University](h
 - **Main conference**: Jun 11- 13, 2025
 
 ### Updates
-- July 31 2024: Call for Papers added!
+- July 31 2024: [Call for Papers]({{<ref "/cfp/" >}}) added!
 
 
 ## Past Editions
