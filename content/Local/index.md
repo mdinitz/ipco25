@@ -9,6 +9,8 @@ menu:
     weight: 1
 ---
 
+# Local Information
+
 IPCO 2025 will be held on the Homewood campus of [Johns Hopkins University](https://www.jhu.edu)
 
 ### Local Organizing Committee

@@ -14,7 +14,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "IPCO"
+    title = "IPCO 2025"
     weight = 1
     contentDir = "content"
     # languageDirection = 'rtl' for Right-To-Left languages
