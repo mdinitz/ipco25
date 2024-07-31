@@ -10,35 +10,16 @@ featured_image: '/images/JHU.jpeg'
 
 The conference and summer school will take place at [Johns Hopkins University](https://www.jhu.edu) in Baltimore, Maryland, USA.  
 
-## Important Dates
+### Important Dates
+- **Submission deadline**: November 5, 2024, 23:59 (AoE)
+- **Notification**: January 22, 2025
+- **Final versions for proceedings**: March 9, 2025
+- **Conference**: June 11-13, 2025
 - **Summer school**: June 9 - 10, 2025
 - **Main conference**: Jun 11- 13, 2025
 
-
-## Committees
-#### Program Committee
-- Amitabh Basu, Johns Hopkins University, US
-- Deeparnab Chakrabarty, Dartmouth College, US
-- Friedrich Eisenbrand, EPFL, CH
-- Vineet Goyal, Columbia University, US
-- Robert Hildebrand, University of Virginia, US
-- Christopher Hoiny, TU Eindhoven, NL
-- Ivana Ljubic, ESSEC Business School, FR
-- Nicole Megow, University of Bremen, DE (chair)
-- Ben Moseley, Carnegie Mellon University, US
-- Giacomo Nannicini, University of Southern California, US
-- Laura Sanita, Bocconi University, IT
-- Chaitanya Swamy, University of Waterloo, CA
-- Laura Vargas Koch, University of Bonn, DE
-- Jose Verschae, Pontificia Universidad Católica de Chile, CL
-- Angelika Wiegele, Alpen-Adria-Universität Klagenfurt, AUT
-- Rico Zenklusen, ETHZ, CH
-
-#### Local Organizing Committee
-- Amitabh Basu (chair), Johns Hopkins University, Applied Mathematics and Statistics
-- Tinglong Dai, Johns Hopkins University, Carey School of Business
-- Michael Dinitz, Johns Hopkins University, Computer Science
-- Kimia Ghobadi, Johns Hopkins University, Civil and Systems Engineering
+### Updates
+- July 31 2024: Call for Papers added!
 
 
 ## Past Editions

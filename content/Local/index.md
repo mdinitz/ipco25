@@ -10,3 +10,9 @@ menu:
 ---
 
 IPCO 2025 will be held on the Homewood campus of [Johns Hopkins University](https://www.jhu.edu)
+
+### Local Organizing Committee
+- Amitabh Basu (chair), Johns Hopkins University, Applied Mathematics and Statistics
+- Tinglong Dai, Johns Hopkins University, Carey School of Business
+- Michael Dinitz, Johns Hopkins University, Computer Science
+- Kimia Ghobadi, Johns Hopkins University, Civil and Systems Engineering
