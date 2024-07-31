@@ -7,6 +7,7 @@ type: page
 menu:
   main:
     weight: 1
+    identifier: 'calls'
 ---
 
 ## Call For Papers
