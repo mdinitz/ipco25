@@ -19,7 +19,7 @@ June 11-13, 2025
 
 - **Submission deadline**: November 4, 2024, 23:59 AoE
 - **Notification**: January 22, 2025
-- **Final versions for proceedings**: March 9, 2025
+- **Final versions for proceedings**: April 2, 2025
 - **Conference**: June 11-13, 2025
 
 ### Scope
