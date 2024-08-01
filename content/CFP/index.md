@@ -17,7 +17,7 @@ June 11-13, 2025
 
 ### Important Dates
 
-- **Submission deadline**: November 5, 2024, 23:59 (AoE)
+- **Submission deadline**: November 4, 2024, 23:59 AoE
 - **Notification**: January 22, 2025
 - **Final versions for proceedings**: March 9, 2025
 - **Conference**: June 11-13, 2025
@@ -26,7 +26,7 @@ June 11-13, 2025
 
 The IPCO conference is a forum for researchers and practitioners working on various aspects of integer programming and combinatorial optimization. The aim is to present recent developments in theory, computation, and applications. The scope of IPCO is viewed in a broad sense, to include algorithmic and structural results in integer programming and combinatorial optimization as well as revealing computational studies and novel applications of discrete optimization to practical problems.
 
-Authors are invited to submit extended abstracts of their recent work by November 5, 2024; see the submission guidelines below for more information. The Program Committee will select the papers to be presented on the basis of the submitted extended abstracts. 
+Authors are invited to submit extended abstracts of their recent work by November 4, 2024; see the submission guidelines below for more information. The Program Committee will select the papers to be presented on the basis of the submitted extended abstracts. 
 
 Contributions are expected to be original, unpublished and not under review by journals or conferences with proceedings before the notification date (January 22, 2024). Papers violating these requirements will not be considered by the Program Committee.
 

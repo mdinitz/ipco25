@@ -11,7 +11,7 @@ featured_image: '/images/JHU.jpeg'
 The conference and summer school will take place at [Johns Hopkins University](https://www.jhu.edu) in Baltimore, Maryland, USA.  
 
 ### Important Dates
-- **Submission deadline**: November 5, 2024, 23:59 (AoE)
+- **Submission deadline**: November 4, 2024, 23:59 AoE
 - **Notification**: January 22, 2025
 - **Final versions for proceedings**: March 9, 2025
 - **Conference**: June 11-13, 2025
