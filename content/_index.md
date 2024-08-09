@@ -13,7 +13,7 @@ The conference and summer school will take place at [Johns Hopkins University](h
 ### Important Dates
 - **Submission deadline**: November 4, 2024, 23:59 AoE
 - **Notification**: January 22, 2025
-- **Final versions for proceedings**: April 2, 2025
+- **Final versions for proceedings**: March 25, 2025
 - **Summer school**: June 9 - 10, 2025
 - **Main conference**: June 11- 13, 2025
 

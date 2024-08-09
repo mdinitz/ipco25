@@ -13,13 +13,15 @@ menu:
 
 IPCO 2025 -- The 26th Conference on Integer Programming and Combinatorial Optimization\
 Johns Hopkins University, Baltimore, USA\
-June 11-13, 2025
+June 11-13, 2025\
+https://ipco25.cs.jhu.edu/
+
 
 ### Important Dates
 
 - **Submission deadline**: November 4, 2024, 23:59 AoE
 - **Notification**: January 22, 2025
-- **Final versions for proceedings**: April 2, 2025
+- **Final versions for proceedings**: March 25, 2025
 - **Conference**: June 11-13, 2025
 
 ### Scope
@@ -62,23 +64,22 @@ Papers failing to adhere to the guidelines (e.g., by not providing the omitted p
 
 ### Program Committee:
 
-- Amitabh Basu, Johns Hopkins University, US 
-- Deeparnab Chakrabarty, Dartmouth College, US 
-- Friedrich Eisenbrand, EPFL, CH 
-- Vineet Goyal, Columbia University, US 
-- Robert Hildebrand, University of Virginia, US 
-- Christopher Hojny, TU Eindhoven, NL 
-- Ivana Ljubic, ESSEC Business School, FR 
+- Amitabh Basu, Johns Hopkins University, US
+- Deeparnab Chakrabarty, Dartmouth College, US
+- Friedrich Eisenbrand, EPFL, CH
+- Vineet Goyal, Columbia University, US
+- Robert Hildebrand, Virginia Tech, US
+- Christopher Hojny, Eindhoven University of Technology, NL
+- Ivana Ljubic, ESSEC Business School, FR
 - Nicole Megow, University of Bremen, DE (PC chair)
-- Ben Moseley, Carnegie Mellon University, US 
-- Giacomo Nannicini, University of Southern California, US 
-- Laura Sanità, Bocconi University, IT 
-- Chaitanya Swamy, University of Waterloo, CA 
-- Laura Vargas Koch, University of Bonn, DE 
-- José Verschae, Pontificia Universidad Católica de Chile, CL 
-- Angelika Wiegele, Alpen-Adria-Universität Klagenfurt, AUT 
-- Rico Zenklusen, ETH Zurich, CH 
-
+- Ben Moseley, Carnegie Mellon University, US
+- Giacomo Nannicini, University of Southern California, US
+- Laura Sanità, Bocconi University, IT
+- Chaitanya Swamy, University of Waterloo, CA
+- Laura Vargas Koch, University of Bonn, DE
+- José Verschae, Pontificia Universidad Católica de Chile, CL
+- Angelika Wiegele, University of Klagenfurt, AT
+- Rico Zenklusen, ETH Zurich, CH
 
 
 
