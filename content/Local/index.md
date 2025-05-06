@@ -11,7 +11,11 @@ menu:
 
 # Local Information
 
-IPCO 2025 will be held on the Homewood campus of [Johns Hopkins University](https://www.jhu.edu)
+### Conference Venue
+
+IPCO 2025 will be held in [Shriver Hall](https://maps.app.goo.gl/TzWPKc4yVcQUF2cQ8) on the Homewood campus of [Johns Hopkins University](https://www.jhu.edu).  The Summer School will be held in the Clipper Room on the second floor, while the main conference will be held in the main auditorium.  
+
+Shriver Hall is at the south end of the JHU Homewood Campus, behind the Baltimore Museum of Art.  Maps of the JHU Homewood Campus are available [here](https://www.jhu.edu/maps-directions/).  Parking for Shriver Hall is in the South Garage, 3101 Wyman Park Drive, Baltimore, MD 21218, located opposite and just north of the Wyman Park Building.
 
 ### Hotel Information
 
@@ -34,6 +38,17 @@ Another reasonable hotel option is the following, although there is no discounte
 
 - [Delta Hotel Baltimore North](https://www.marriott.com/en-us/hotels/bwidc-delta-hotels-baltimore-north/overview/): 3.0 miles from campus
   - Hotel phone number: 410-532-6900
+
+
+### Map of Conference Locations
+<iframe src="https://www.google.com/maps/d/embed?mid=1mBd_cgXg6H1vxG0aIYSCZeAFVnB-vns&ehbc=2E312F" width="640" height="480"></iframe>
+
+
+### Travel
+
+- Baltimore is on the Northeast Corridor rail line, so is easily accessible by train. [Amtrak](https://www.amtrak.com/home.html) serves intercity routes, and the local commuter train system, the [MARC train](https://www.mta.maryland.gov/schedule?type=marc-train), has frequent trains to and from Union Station in Washington, DC.  Amtrak and the MARC Penn line trains stop at [Baltimore Penn Station](https://en.wikipedia.org/wiki/Baltimore_Penn_Station) in midtown Baltimore. Amtrak trains from Washington Union cost approximately $30 and take 40 minutes, while the MARC Penn trains from Union cost $9 and take approximately an hour. From Penn Station, the purple line of the [Charm City Circulator](https://transportation.baltimorecity.gov/charm-city-circulator) or the silver or 51 lines of the [MTA local bus](https://www.mta.maryland.gov/schedule?type=local-bus) will take you to JHU Homewood.
+
+- Baltimore is served locally by Baltimore/Washington International Thurgood Marshall Airport (BWI), and is also accessible from Reagan National Airport (DCA) and Dulles International Airport (IAD).
 
 
 ### Local Organizing Committee
