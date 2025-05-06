@@ -11,6 +11,16 @@ Paginate = 5 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
+env = "production"
+production = true # Set to false for development or testing environments
+public = true # Set to false if the site should not be indexed
+private = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [languages]
   [languages.en]
     title = "IPCO 2025"

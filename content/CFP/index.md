@@ -9,6 +9,20 @@ menu:
     weight: 1
     identifier: 'calls'
 ---
+- [Call for Posters](#call-for-posters)
+- [Call for Papers](#call-for-papers)
+
+# Call for Posters
+IPCO 2025 will feature a poster session and a best poster award. The poster session will take place on June 11, 2025.
+
+We particularly welcome posters from Ph.D. students and postdocs. Poster abstracts can be submitted to the email address: basu.amitabh@jhu.edu. The abstract format is: a PDF file, one letter-size page maximum, one-inch margins, 11-point font, single-space. The deadline for poster abstract submissions is April 13, 2025.
+
+The local organizing committee will select poster presenters, subject to the number of available poster slots. A committee will evaluate posters during the poster session and select the best poster. We have some funding to provide travel support to a limited number of poster presenters, as judged by the local organizing committee.
+
+The committee will communicate notifications of acceptance by April 20, 2025. Poster presenters are required to register for the conference.
+
+Please contact Amitabh Basu at basu.amitabh@jhu.edu if you have any questions.
+
 # Call for Papers
 
 IPCO 2025 -- The 26th Conference on Integer Programming and Combinatorial Optimization\
@@ -80,6 +94,8 @@ Papers failing to adhere to the guidelines (e.g., by not providing the omitted p
 - José Verschae, Pontificia Universidad Católica de Chile, CL
 - Angelika Wiegele, University of Klagenfurt, AT
 - Rico Zenklusen, ETH Zurich, CH
+
+
 
 
 
