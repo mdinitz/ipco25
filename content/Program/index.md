@@ -53,8 +53,7 @@ menu:
 - 3:30 — 4: Coffee break
 - 4 -- 5:30:
   - Yuval Filmus, Roy Schwartz and Alexander Smal. Separating Coverage and Submodular: Maximization Subject to a Cardinality Constraint
-  - Ali Ahmadi, Iman Gholami, Mohammadtaghi Hajiaghayi, Peyman Jabbarzade and Mohammad Mahdavi.
-  - Prize-Collecting Forest with Submodular Penalties: Improved Approximation
+  - Ali Ahmadi, Iman Gholami, Mohammadtaghi Hajiaghayi, Peyman Jabbarzade and Mohammad Mahdavi. Prize-Collecting Forest with Submodular Penalties: Improved Approximation
   - Richard Bi, Karthekeyan Chandrasekaran and Soham Joshi. Monotone Submodular Multiway Partition
 - 7 -- 9pm: Conference dinner cruise (boarding time: 6:30pm)
 
