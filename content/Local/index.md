@@ -17,6 +17,21 @@ IPCO 2025 will be held in [Shriver Hall](https://maps.app.goo.gl/TzWPKc4yVcQUF2c
 
 Shriver Hall is at the south end of the JHU Homewood Campus, behind the Baltimore Museum of Art.  Maps of the JHU Homewood Campus are available [here](https://www.jhu.edu/maps-directions/).  Parking for Shriver Hall is in the South Garage, 3101 Wyman Park Drive, Baltimore, MD 21218, located opposite and just north of the Wyman Park Building.
 
+### Dining Options
+
+Food:
+- On campus: Levering Hall (11am-2pm), Gertrude's (Baltimore Museum of Art)
+- Off campus: 
+  - Remington (southwest of campus): [R house](https://r.housebaltimore.com/), [Doppio Pasticceria](https://www.doppiobaltimore.com/), [Papermoon Diner](https://papermoondiner24.com/) 
+  - Hampden (west of campus): [36th St / The Avenue](https://www.hampdenmerchants.com/), [The Rotunda](https://rotundabaltimore.com/)
+  - Charles Village (east of campus): St Paul Street (many restuarants)
+  - North of campus: W University Parkway
+
+Coffee:
+- On campus: Brody Learning Commons, Gilman Hall, Levering Cafe
+- Off campus: E. 33rd Street, St. Paul Street, R House, Hampden
+
+
 ### Hotel Information
 
 Special discounted rates for IPCO attendees are available at the following three hotels.
